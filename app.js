@@ -27,29 +27,23 @@
 
 // (a) 
 
-// document.write("<h1> Rules for naming JS variable...... </h1>")
+document.write("<h1> Rules for naming JS variable...... </h1>")
 
 // (b)
 
-// document.write("variable names can only contain, numbers, $ and underscore. For example: $my -1stVariable.")
-
-// document.write("</br>")
+document.write("variable names can only contain, numbers, $ and underscore. For example: $my -1stVariable." + "<br>")
 
 // (c)
 
-// document.write("Variable must begin with a letter, $ or underscore. For example: $name, -name or name.")
-
-// document.write("</br>")
+document.write("Variable must begin with a letter, $ or underscore. For example: $name, -name or name." + "<br>")
 
 // (d)
 
-// document.write("Variable names are case sensitive.")
-
-// document.write("</br>")
+document.write("Variable names are case sensitive."  + "<br>")
 
 // (e)
 
-// document.write("Variable names should not be JS keywords.")
+document.write("Variable names should not be JS keywords." + "<br>")
 
 
 
